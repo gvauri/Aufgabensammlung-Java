@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" filepath="$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_11/Aufgabe_11.iml" filepath="$PROJECT_DIR$/Aufgabe_11/Aufgabe_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_13/Aufgabe_13.iml" filepath="$PROJECT_DIR$/Aufgabe_13/Aufgabe_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_15/Aufgabe_15.iml" filepath="$PROJECT_DIR$/Aufgabe_15/Aufgabe_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_16/Aufgabe_16.iml" filepath="$PROJECT_DIR$/Aufgabe_16/Aufgabe_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_19/Aufgabe_19.iml" filepath="$PROJECT_DIR$/Aufgabe_19/Aufgabe_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_22/Aufgabe_22.iml" filepath="$PROJECT_DIR$/Aufgabe_22/Aufgabe_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_23/Aufgabe_23.iml" filepath="$PROJECT_DIR$/Aufgabe_23/Aufgabe_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" filepath="$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" filepath="$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
     </modules>
