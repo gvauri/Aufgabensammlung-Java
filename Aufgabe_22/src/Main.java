@@ -14,6 +14,9 @@ public class Main {
                     Scanner scanner = new Scanner(System.in);
                     System.out.print("Gib eine korrekte Rechnung mit Zahlen ein: ");
                     eingabeString = scanner.nextLine();
+                    if (eingabeString.equals("q")){
+                        System.exit(0);
+                    }
                     convertToInvoice(eingabeString);
                     System.out.println(calculator());
                 } catch (Exception ex) {

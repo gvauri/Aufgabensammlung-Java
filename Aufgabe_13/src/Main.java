@@ -21,8 +21,8 @@ public class Main {
         baumStamm(hoeheStamm,breiteStamm,breiteleerschlag);
     }
 
-    public static void eineZeile(int lehrschläge, int anzSterne) {
-        for (int a = 0; lehrschläge > a; ++a) {
+    public static void eineZeile(int lehrschlaege, int anzSterne) {
+        for (int a = 0; lehrschlaege > a; ++a) {
             System.out.print(" ");
         }
         for (int i = 0; anzSterne>i; i++) {
